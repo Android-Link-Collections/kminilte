@@ -64,5 +64,5 @@ Build
 
 A9
 -----
-* [Github](https://github.com/Spookcity/android_.repo_local_manifests/blob/P/kminilte.xml)Github (https://github.com/Spookcity/android_.repo_local_manifests/blob/P/common.xml)
+* [Github](https://github.com/Spookcity/android_.repo_local_manifests)
 * [Github](https://github.com/SirRGB/local_manifests/tree/main/kminilte)
